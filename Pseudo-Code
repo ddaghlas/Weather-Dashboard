@@ -1,0 +1,27 @@
+// jumbotron
+    // background color: gradient mid blue - indigo/navy
+    // color: white
+    // font-weight: bold
+    // text align: center
+    // justify-content: 
+// ***** THIS IS THE MAIN CARD *****
+    // card for the left aligned section/div
+        // float: left
+    // background-color: white
+    // <h1>Search for a City: </h1>
+        // font-weight: bold 
+        // text aling: right
+        // margin left: 5px
+        // margin-right: 10px
+    // input for text -- textArea
+        // border -- med gray
+        // background-color: offwhite
+        // color: med-gray
+    // Search button = searchBtn
+        // background-color: skyblue
+        // color: white
+        // font-size: 16px
+        // margin-left: 5px
+        // margin-right: 10px 
+        // padding: 15px 10px 
+        
